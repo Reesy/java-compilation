@@ -1,4 +1,4 @@
-#### Compile a single file application
+#### Creating a JAR file
 	javac -sourcepath src -d build/classes src/mypackage/helloworld.java 
 
 Used options:
