@@ -9,6 +9,6 @@ In each of the subfolders there is a seperate readme.
 
 | Folder       |    Description           |
 | ------------ | ------------------------ |
-| [Hello world - compiling](https://github.com/Reesy/java-compilation/tree/master/1_hello_world) |  Most basic example, purely running the java compiler through cli | 
-| [Hello world - JAR file ](https://github.com/Reesy/java-compilation/tree/master/2_hello_world_jar) | "hello, world" example compiled to a JAR file through cli |
-| [Hello world - Ant](https://github.com/Reesy/java-compilation/tree/master/3_hello_ant) | "hello, world" example compiled using the ANT build tool! |
+| [Hello world - compiling](https://github.com/Reesy/java-compilation-reference/tree/master/1_hello_world) |  Most basic example, purely running the java compiler through cli | 
+| [Hello world - JAR file ](https://github.com/Reesy/java-compilation-reference/tree/master/2_hello_world_jar) | "hello, world" example compiled to a JAR file through cli |
+| [Hello world - Ant](https://github.com/Reesy/java-compilation-reference/tree/master/3_hello_ant) | "hello, world" example compiled using the ANT build tool! |
